@@ -18,7 +18,7 @@
   <strong>Front-End</strong> como <strong>Back-End</strong> e <strong>Mobile</strong>.
 <br>
 <br>
-:fire: _**Focado no momento em JS, NodeJS, ReactJS e React Native.**_
+:fire: Focado no momento em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
 <br>
 <br>
 :dart: Meu objetivo atual é cooperar em projetos.
