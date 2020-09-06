@@ -15,7 +15,7 @@
 <br>
 <br>
 :pencil2: Des de o inicio do ano de 2020 venho me aprofundando cada vez mais em meu conhecimento <br>sobre o desenvolvimento de plataformas tanto 
-  <strong>Front-End como Back-End e Mobile</strong>.
+  <strong>Front-End</strong> como <strong>Back-End</strong> e <strong>Mobile</strong>.
 <br>
 <br>
 :fire: _**Focado no momento em JS, NodeJS, ReactJS e React Native.**_
