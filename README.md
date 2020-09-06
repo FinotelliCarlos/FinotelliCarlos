@@ -10,26 +10,30 @@
 
 ---
 
-<div>
-:two_hearts: Apaixonado por tecnologia e por solucionar problemas.
-<br>
-<br>
-:pencil2: Des de o inicio do ano de 2020 venho me aprofundando cada vez mais em meu conhecimento <br>sobre o desenvolvimento de plataformas tanto 
-  <strong>Front-End</strong> como <strong>Back-End</strong> e <strong>Mobile</strong>.
-<br>
-<br>
-:fire: Focado no momento em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
-<br>
-<br>
-:dart: Meu objetivo atual é cooperar em projetos.
+<div Align="center">
+  <div Align="initial">
+    :two_hearts: Apaixonado por tecnologia e por solucionar problemas.
+    <br>
+    <br>
+    :pencil2: Des de o inicio do ano de 2020 venho me aprofundando cada vez mais em meu conhecimento <br>sobre o desenvolvimento de plataformas tanto 
+      <strong>Front-End</strong> como <strong>Back-End</strong> e <strong>Mobile</strong>.
+    <br>
+    <br>
+    :fire: Focado no momento em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
+    <br>
+    <br>
+    :dart: Meu objetivo atual é cooperar em projetos.
+    </div>
 </div>
 
 ---
 
-<div>
-:pencil2: Atualmente Cursando ADS em EAD na instituição Uni9.
+<div Align="center">
+  <div Align="initial">
+    :pencil2: Atualmente Cursando ADS em EAD na instituição Uni9.
 
-:necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior, prestando serviços ao banco Bradesco S.A.
+    :necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior, prestando serviços ao banco Bradesco S.A.
+  <div>
 </div>
 
 ---
