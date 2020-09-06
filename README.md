@@ -10,34 +10,34 @@
 ---
 
 <div Align="center">
-Apaixonado por tecnologia e por solucionar problemas.
+:two_hearts: Apaixonado por tecnologia e por solucionar problemas.
 <br>
 <br>
-Des de o inicio do ano de 2020 venho me aprofundando cada vez mais em meu conhecimento <br>sobre o desenvolvimento de plataformas tanto _Front-End como Back-End e Mobile_.
+:pencil2: Des de o inicio do ano de 2020 venho me aprofundando cada vez mais em meu conhecimento <br>sobre o desenvolvimento de plataformas tanto _Front-End como Back-End e Mobile_.
 <br>
 <br>
-_**Focado no momento em JS, NodeJS, ReactJS e React Native.**_
+:fire: _**Focado no momento em JS, NodeJS, ReactJS e React Native.**_
 <br>
 <br>
-Meu objetivo atual é cooperar em projetos.
+:dart: Meu objetivo atual é cooperar em projetos.
 </div>
 
 ---
 
 <div Align="center">
-Atualmente Cursando ADS em EAD na instituição Uni9.
+:pencil2: Atualmente Cursando ADS em EAD na instituição Uni9.
 
-Trabalho na empresa Softmed Sistemas como Op. Computador Junior, prestando serviços ao banco Bradesco S.A.
+:necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior, prestando serviços ao banco Bradesco S.A.
 </div>
 
 ---
 
 <div Align="center">
-  ## <strong>Tecnologias</strong>
+:rocket:  ## <strong>Tecnologias</strong>
 </div>
 <br>
 <div Align="center">
-  #<strong>Tenho Experiencia</strong><br>
+:rocket:  #<strong>Tenho Experiencia</strong><br>
   - Java Script<br>
   - HTML5<br>
   - CSS3<br>
@@ -47,7 +47,7 @@ Trabalho na empresa Softmed Sistemas como Op. Computador Junior, prestando servi
 </div>
 <br>
 <div Align="center">
-  #<strong>Estudando</strong><br>
+:rocket:  #<strong>Estudando</strong><br>
   - React JS<br>
   - React Native<br>
   - Node.js<br>
