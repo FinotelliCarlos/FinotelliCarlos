@@ -10,7 +10,7 @@
 
 ---
 
-<div Align="center">
+<div>
 :two_hearts: Apaixonado por tecnologia e por solucionar problemas.
 <br>
 <br>
@@ -26,7 +26,7 @@
 
 ---
 
-<div Align="center">
+<div>
 :pencil2: Atualmente Cursando ADS em EAD na instituição Uni9.
 
 :necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior, prestando serviços ao banco Bradesco S.A.
