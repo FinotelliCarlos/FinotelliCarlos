@@ -11,7 +11,6 @@
 ---
 
 <div Align="center">
-  <div Align="initial">
     :two_hearts: Apaixonado por tecnologia e por solucionar problemas.
     <br>
     <br>
@@ -23,17 +22,13 @@
     <br>
     <br>
     :dart: Meu objetivo atual é cooperar em projetos.
-    </div>
 </div>
 
 ---
 
 <div Align="center">
-  <div Align="initial">
     :pencil2: Atualmente Cursando ADS em EAD na instituição Uni9.
-
     :necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior, prestando serviços ao banco Bradesco S.A.
-  <div>
 </div>
 
 ---
@@ -44,19 +39,19 @@
 <br>
 <div Align="center">
 :rocket:  #<strong>Tenho Experiencia</strong><br>
-  - Java Script<br>
-  - HTML5<br>
-  - CSS3<br>
-  - SQL Server<br>
-  - Node.js<br>
-  - Python<br>
+    - Java Script<br>
+    - HTML5<br>
+    - CSS3<br>
+    - SQL Server<br>
+    - Node.js<br>
+    - Python<br>
 </div>
 <br>
 <div Align="center">
 :rocket:  #<strong>Estudando</strong><br>
-  - React JS<br>
-  - React Native<br>
-  - Node.js<br>
+    - React JS<br>
+    - React Native<br>
+    - Node.js<br>
 </div>
 
 ---
