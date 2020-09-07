@@ -51,7 +51,6 @@
 :rocket:  #<strong>Estudando</strong><br>
     - React JS<br>
     - React Native<br>
-    - Node.js<br>
 </div>
 
 ---
