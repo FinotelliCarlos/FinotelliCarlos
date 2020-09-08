@@ -56,6 +56,4 @@
 
 ---
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/finotellicarlos/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=http://github.com/FinotelliCarlos)](http://github.com/FinotelliCarlos)
-
+[![Carlos Eduardo P. Finotelli](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/finotellicarlos/)
