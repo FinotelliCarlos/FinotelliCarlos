@@ -50,7 +50,7 @@
 <div Align="center">
     :pencil2: Atualmente Cursando ADS em EAD na instituição Uni9.
   <br>
-    :necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior, prestando serviços ao banco Bradesco S.A.
+    :necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior.
 </div>
 
 ---
