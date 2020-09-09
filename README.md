@@ -2,11 +2,24 @@
 
 <div Align="center">
   <img 
-       alt="Github stats" 
-       width="60%" 
-       src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=radical" />
+       width="60%"
+       src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=dark"
+       alt="Finotelli" />
 </div>
 <br>
+
+<div align="center">
+<a href="https://linkedin.com/in/finotellicarlos" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Finotelli" height="50" width="50" />
+    </a>
+
+<a href="https://fb.com/duuh.cls" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Finotelli" height="50" width="50" />
+</a>
+    <a href="https://instagram.com/10_duuh" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Finotelli" height="50" width="50" />
+</a>
+</div>
 
 ---
 
@@ -20,6 +33,14 @@
     <br>
     :fire: Focado no momento em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
     <br>
+ <div align="left">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
+</div>
     <br>
     :dart: Meu objetivo atual é cooperar em projetos.
 </div>
