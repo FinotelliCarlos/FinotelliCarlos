@@ -19,7 +19,7 @@
     <a href="https://instagram.com/10_duuh" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Finotelli" height="50" width="50" />
 </a>
-<a href="https://discord.com/#3196" target="blank">
+<a href="https://discord.com/FinotelliCarlos#3196" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Finotelli" height="50" width="50" />
 </a>
 </div>
