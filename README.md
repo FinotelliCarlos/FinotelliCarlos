@@ -23,6 +23,11 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Finotelli" height="50" width="50" />
 </a>
 </div>
+<a href="https://api.whatsapp.com/send?phone=5511958331748" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Finotelli" height="50" width="50" />
+</a>
+
+
 
 ---
 
