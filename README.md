@@ -1,12 +1,13 @@
 <br>
 <div Align="center">
   <img 
-       width="80%"
+       width="65%"
        src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=dark"
        alt="Finotelli" />
   <br>
+  <br>
   <img 
-       width="60%"
+       width="40%"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinotelliCarlos&layout=compact&theme=darcula"
        alt="Finotelli" />
 </div>
