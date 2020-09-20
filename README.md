@@ -26,8 +26,6 @@
 </a>
 </div>
 
----
-
 <div Align="center">
     :two_hearts: Apaixonado por tecnologia e por solucionar problemas.
     <br>
@@ -46,8 +44,6 @@
     <br>
     :dart: Meu objetivo atual é cooperar em projetos.
 </div>
-
----
 
 <div Align="center">
     :pencil2: Atualmente Cursando ADS em EAD na instituição Uni9.
