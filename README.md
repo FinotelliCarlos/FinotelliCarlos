@@ -1,7 +1,7 @@
 <br>
 <div Align="center">
   <img 
-       width="60%"
+       width="80%"
        src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=dark"
        alt="Finotelli" />
   <br>
