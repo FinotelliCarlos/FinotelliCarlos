@@ -1,5 +1,3 @@
----
-
 <div Align="center">
   <img 
        width="60%"
