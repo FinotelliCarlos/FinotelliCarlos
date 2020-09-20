@@ -1,12 +1,11 @@
 ---
-<br>
+
 <div Align="center">
   <img 
        width="60%"
        src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=dark"
        alt="Finotelli" />
 </div>
-<br>
 
 <div align="center">
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
@@ -27,19 +26,15 @@
 </a>
 </div>
 
-
 ---
 
 <div Align="center">
     :two_hearts: Apaixonado por tecnologia e por solucionar problemas.
     <br>
-    <br>
     :pencil2: Des de o inicio do ano de 2020 venho me aprofundando cada vez mais em meu conhecimento <br>sobre o desenvolvimento de plataformas tanto 
       <strong>Front-End</strong> como <strong>Back-End</strong> e <strong>Mobile</strong>.
     <br>
-    <br>
     :fire: Focado no momento em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
-    <br>
      <br>
  <div align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
