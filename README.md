@@ -1,3 +1,5 @@
+---
+
 <div Align="center">
   <img 
        width="60%"
@@ -31,7 +33,8 @@
       <strong>Front-End</strong> como <strong>Back-End</strong> e <strong>Mobile</strong>.
     <br>
     :fire: Focado no momento em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
-     <br>
+    <br>
+    <br>
  <div align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
