@@ -51,8 +51,6 @@
     :necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior.
 </div>
 
----
-
 <div Align="center">
 :rocket:  ## <strong>Tecnologias</strong>
 </div>
@@ -72,5 +70,3 @@
     - React JS<br>
     - React Native<br>
 </div>
-
----
