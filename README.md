@@ -57,8 +57,10 @@
     :necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior.
 </div>
 
+---
+
 <div Align="center">
-:rocket:  ## <strong>Tecnologias</strong>
+:rocket:  ## <strong>Skills Stack</strong>
 </div>
 <br>
 <div Align="center">
