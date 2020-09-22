@@ -7,7 +7,7 @@
 <div Align="center">
   <img 
        width="65%"
-       src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=dark"
+       src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=darcula"
        alt="Finotelli" />
   <br>
   <br>
