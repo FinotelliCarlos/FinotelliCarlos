@@ -3,6 +3,7 @@
 ---
 
 </div>
+
 <br>
 <div Align="center">
   <img 
@@ -16,6 +17,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinotelliCarlos&layout=compact&theme=darcula"
        alt="Finotelli" />
 </div>
+
 <br>
 <div align="center">
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
@@ -34,8 +36,13 @@
 <a href="https://api.whatsapp.com/send?phone=5511958331748" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Finotelli" height="50" width="50" />
 </a>
+<a href="mailto:carlos.finotelli@outlook.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Finotelli" height="50" width="50" />
+</a>
 </div>
+
 <br>
+
 <div Align="center">
     :two_hearts: Apaixonado por tecnologia e por solucionar problemas.
     <br>
