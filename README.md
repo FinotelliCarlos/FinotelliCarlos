@@ -73,7 +73,7 @@
 :rocket:  ## <strong>Skills Stack</strong>
 </div>
 <br>
-<div Align="center">
+<div Align="initial">
 :rocket:  #<strong>Tenho Experiencia</strong><br>
     - Java Script<br>
     - HTML5<br>
@@ -83,7 +83,7 @@
     - Python<br>
 </div>
 <br>
-<div Align="center">
+<div Align="end">
 :rocket:  #<strong>Estudando</strong><br>
     - React JS<br>
     - React Native<br>
