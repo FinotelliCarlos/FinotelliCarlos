@@ -1,47 +1,5 @@
-<div>
-  
+
 ---
-
-</div>
-
-<br>
-<div Align="center">
-  <img 
-       width="65%"
-       src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=darcula"
-       alt="Finotelli" />
-  <br>
-  <br>
-  <img 
-       width="40%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinotelliCarlos&layout=compact&theme=darcula"
-       alt="Finotelli" />
-</div>
-
-<br>
-<div align="center">
-<a href="https://linkedin.com/in/finotellicarlos" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Finotelli" height="50" width="50" />
-    </a>
-
-<a href="https://fb.com/duuh.cls" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Finotelli" height="50" width="50" />
-</a>
-    <a href="https://instagram.com/10_duuh" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Finotelli" height="50" width="50" />
-</a>
-<a href="https://discord.gg/3T4EZ6" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Finotelli" height="50" width="50" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=5511958331748" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Finotelli" height="50" width="50" />
-</a>
-<a href="mailto:carlos.finotelli@outlook.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Finotelli" height="50" width="50" />
-</a>
-</div>
-
-<br>
 
 <div Align="center">
     :two_hearts: Apaixonado por tecnologia e por solucionar problemas.
@@ -69,24 +27,39 @@
     :necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior.
 </div>
 <br>
-<div Align="center">
-:rocket:  ## <strong>Skills Stack</strong>
+<div align="center">
+<a href="https://linkedin.com/in/finotellicarlos" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Finotelli" height="50" width="50" />
+    </a>
+
+<a href="https://fb.com/duuh.cls" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Finotelli" height="50" width="50" />
+</a>
+    <a href="https://instagram.com/10_duuh" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Finotelli" height="50" width="50" />
+</a>
+<a href="https://discord.gg/3T4EZ6" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Finotelli" height="50" width="50" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=5511958331748" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Finotelli" height="50" width="50" />
+</a>
+<a href="mailto:carlos.finotelli@outlook.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Finotelli" height="50" width="50" />
+</a>
 </div>
 <br>
 <div Align="center">
-:rocket:  #<strong>Tenho Experiencia</strong><br>
-    - Java Script<br>
-    - HTML5<br>
-    - CSS3<br>
-    - SQL Server<br>
-    - Node.js<br>
-    - Python<br>
-</div>
-<br>
-<div Align="center">
-:rocket:  #<strong>Estudando</strong><br>
-    - React JS<br>
-    - React Native<br>
+  <img 
+       width="65%"
+       src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=darcula"
+       alt="Finotelli" />
+  <br>
+  <br>
+  <img 
+       width="40%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinotelliCarlos&layout=compact&theme=darcula"
+       alt="Finotelli" />
 </div>
 
 ---
