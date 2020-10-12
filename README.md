@@ -1,6 +1,13 @@
 
 ---
-
+<div Align="center">
+  <img 
+       width="65%"
+       src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=darcula"
+       alt="Finotelli" />
+</div>
+<br>
+<br>
 <div Align="center">
     :two_hearts: Apaixonado por tecnologia e por solucionar problemas.
     <br>
@@ -49,13 +56,9 @@
 </a>
 </div>
 <br>
-<div Align="center" display="flex">
-  <img 
-       width="65%"
-       src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=darcula"
-       alt="Finotelli" />
   <br>
   <br>
+<div Align="center">
   <img 
        width="40%"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinotelliCarlos&layout=compact&theme=darcula"
