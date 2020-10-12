@@ -7,7 +7,6 @@
        alt="Finotelli" />
 </div>
 <br>
-<br>
 <div Align="center">
     :two_hearts: Apaixonado por tecnologia e por solucionar problemas.
     <br>
@@ -56,7 +55,6 @@
 </a>
 </div>
 <br>
-  <br>
   <br>
 <div Align="center">
   <img 
