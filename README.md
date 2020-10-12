@@ -2,7 +2,7 @@
 ---
 <div Align="center">
   <img 
-       width="65%"
+       width="60%"
        src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=darcula"
        alt="Finotelli" />
 </div>
@@ -55,10 +55,9 @@
 </a>
 </div>
 <br>
-  <br>
 <div Align="center">
   <img 
-       width="40%"
+       width="60%"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinotelliCarlos&layout=compact&theme=darcula"
        alt="Finotelli" />
 </div>
