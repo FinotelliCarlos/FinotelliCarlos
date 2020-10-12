@@ -49,7 +49,7 @@
 </a>
 </div>
 <br>
-<div Align="center">
+<div Align="center" display="flex">
   <img 
        width="65%"
        src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=darcula"
