@@ -38,19 +38,19 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Finotelli" height="50" width="50" />
     </a>
 
-<a href="https://fb.com/duuh.cls" target="blank">
+<a href="https://fb.com/duuh.cls" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Finotelli" height="50" width="50" />
 </a>
-    <a href="https://instagram.com/10_duuh" target="blank">
+    <a href="https://instagram.com/10_duuh" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Finotelli" height="50" width="50" />
 </a>
-<a href="https://discordapp.com/users/733724313550717038" target="blank">
+<a href="https://discordapp.com/users/733724313550717038" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Finotelli" height="50" width="50" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=5511958331748" target="blank">
+<a href="https://api.whatsapp.com/send?phone=5511958331748" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Finotelli" height="50" width="50" />
 </a>
-<a href="mailto:carlos.finotelli@outlook.com" target="blank">
+<a href="mailto:carlos.finotelli@outlook.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Finotelli" height="50" width="50" />
 </a>
 </div>
