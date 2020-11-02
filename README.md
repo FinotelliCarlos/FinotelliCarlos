@@ -45,6 +45,9 @@
 <a href="https://api.whatsapp.com/send?phone=5511958331748" target="_blank">
   <img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/whatsapp_icon-icons.com_53606.png" alt="Finotelli" height="50" width="50" />
 </a>
+<a href="https://t.me/FinotelliCarlos" target="_blank">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" alt="Finotelli" height="50" width="50" />
+</a>
 <a href="mailto:carlos.finotelli@outlook.com" target="_blank">
   <img align="center" src="https://cdn.icon-icons.com/icons2/699/PNG/512/outlook_icon-icons.com_61644.png" alt="Finotelli" height="50" width="50" />
 </a>
