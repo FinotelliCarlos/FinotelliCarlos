@@ -8,6 +8,13 @@
 </div>
 <br>
 <div Align="center">
+    <div align="center">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode"  width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50" height="50"/>
+    </div>
+    <br>
     :two_hearts: Apaixonado por tecnologia e solução de problemas.
     <br>
     :pencil2: Venho me aprofundando cada vez mais em <br>desenvolvimento de plataformas  
@@ -18,12 +25,6 @@
     :dart: Meu objetivo é cooperar em projetos.
     <br>
     <br>
-  <div align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </div>
 </div>
 
 <br>
