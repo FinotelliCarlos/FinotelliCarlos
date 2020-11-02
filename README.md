@@ -17,12 +17,13 @@
     <br>
     :dart: Meu objetivo é cooperar em projetos.
     <br>
+    <br>
   <div align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-</div>
+  </div>
 </div>
 
 <br>
