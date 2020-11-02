@@ -29,7 +29,7 @@
 <br>
 <div align="center">
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Finotelli" height="50" width="50" />
+    <img align="center" src="https://cdn.icon-icons.com/icons2/353/PNG/128/Linkedin_36381.png" alt="Finotelli" height="50" width="50" />
     </a>
 
 <a href="https://fb.com/duuh.cls" target="_blank">
