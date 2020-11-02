@@ -8,30 +8,23 @@
 </div>
 <br>
 <div Align="center">
-    :two_hearts: Apaixonado por tecnologia e por solucionar problemas.
+    :two_hearts: Apaixonado por tecnologia e solução de problemas.
     <br>
-    :pencil2: Des de o inicio do ano de 2020 venho me aprofundando cada vez mais em meu conhecimento <br>sobre o desenvolvimento de plataformas tanto 
-      <strong>Front-End</strong> como <strong>Back-End</strong> e <strong>Mobile</strong>.
+    :pencil2: Venho me aprofundando cada vez mais em <br>desenvolvimento de plataformas  
+      <strong>Front-End</strong>, <strong>Back-End</strong> e <strong>Mobile</strong>.
     <br>
-    :fire: Focado no momento em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
+    :fire: Focado em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
     <br>
+    :dart: Meu objetivo é cooperar em projetos.
     <br>
   <div align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 </div>
-    <br>
-    :dart: Meu objetivo atual é cooperar em projetos.
 </div>
 
-<div Align="center">
-    :pencil2: Atualmente Cursando ADS em EAD na instituição Uni9.
-  <br>
-    :necktie: Trabalho na empresa Softmed Sistemas como Op. Computador Junior.
-</div>
 <br>
 <div align="center">
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
