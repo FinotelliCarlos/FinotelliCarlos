@@ -17,9 +17,6 @@
     <br>
     :two_hearts: Apaixonado por tecnologia e solução de problemas.
     <br>
-    :pencil2: Me aprofundando em desenvolvimento de plataformas<br>
-      <strong>Front-End</strong>, <strong>Back-End</strong> e <strong>Mobile</strong>.
-    <br>
     :fire: Focado em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
     <br>
     :dart: Meu objetivo é cooperar em projetos.
