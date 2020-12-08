@@ -58,10 +58,6 @@
   <img align="center" src="https://cdn.icon-icons.com/icons2/699/PNG/512/outlook_icon-icons.com_61644.png" alt="Finotelli" height="50" width="50" />
 </a>
 
-<a href="https://finotellipersonalpage.herokuapp.com/" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/255/PNG/128/folder_web_blue_27261.png" alt="Finotelli" height="50" width="50" />
-</a>
-
 </div>
 
 <br>
