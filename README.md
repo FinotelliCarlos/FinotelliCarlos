@@ -8,7 +8,6 @@
 </div>
 
 <div Align="left">
-    <br>
     :two_hearts: Apaixonado por tecnologia e solução de problemas.
     <br>
     :fire: Focado em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
