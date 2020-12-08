@@ -6,7 +6,7 @@
        src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=dark"
        alt="Finotelli" />
 </div>
-<br>
+
 <div Align="left">
     <br>
     :two_hearts: Apaixonado por tecnologia e solução de problemas.
