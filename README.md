@@ -1,11 +1,5 @@
 
 ---
-<div Align="left">
-  <img 
-       width="30%"
-       src="https://github-readme-stats.vercel.app/api?username=FinotelliCarlos&show_icons=true&theme=dark"
-       alt="Finotelli" />
-</div>
 
 <div Align="left">
     :two_hearts: Apaixonado por tecnologia e solução de problemas.
@@ -57,14 +51,6 @@
   <img align="center" src="https://cdn.icon-icons.com/icons2/699/PNG/512/outlook_icon-icons.com_61644.png" alt="Finotelli" height="20" width="20" />
 </a>
 
-</div>
-
-<br>
-<div Align="left">
-  <img 
-       width="30%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinotelliCarlos&layout=compact&theme=dark"
-       alt="Finotelli" />
 </div>
 
 ---
