@@ -1,23 +1,15 @@
 
 ---
 
-<div Align="left">
-    :two_hearts: Apaixonado por tecnologia e solução de problemas.
-    <br>
-    :fire: Focado em <strong>JS</strong>, <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>React Native</strong>.
-    <br>
-    :dart: Meu objetivo é cooperar em projetos.
-    <br>
-    <br>
-</div>
-    <div align="left">
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="30" height="30"/>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" width="30" height="30"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="30" height="30"/>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode"  width="30" height="30"/>
-    </div>
-<br>
-<div align="left">
+Hi, there! :wave:
+
+:muscle: I'm Carlos Eduardo Pereira <strong>Finotelli</strong>.
+
+:heart: I'm a lover of open-source projects.
+
+:fire: I'm currently learning React.js, React-Native, Node.JS and Typescript.
+
+/*area de contato*/
   
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Finotelli" height="20" width="20" />
@@ -50,7 +42,5 @@
 <a href="mailto:carlos.finotelli@outlook.com" target="_blank">
   <img align="center" src="https://cdn.icon-icons.com/icons2/699/PNG/512/outlook_icon-icons.com_61644.png" alt="Finotelli" height="20" width="20" />
 </a>
-
-</div>
 
 ---
