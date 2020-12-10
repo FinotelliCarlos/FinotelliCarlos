@@ -28,7 +28,7 @@ Below contact area :wink:
 </a>
 
 <a href="https://discordapp.com/users/733724313550717038" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="Finotelli" height="20" width="25" />
+  <img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="Finotelli" height="25" width="25" />
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5511958331748" target="_blank">
