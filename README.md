@@ -9,7 +9,7 @@ Hi, there! :wave:
 
 :fire: I'm currently learning React.js, React-Native, Node.JS and Typescript.
 
-/*area de contato*/
+Below contact area :wink:
   
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Finotelli" height="20" width="20" />
