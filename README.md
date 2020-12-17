@@ -1,7 +1,7 @@
 
 ---
 
-Hi, there! :wave:
+Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 :muscle: I'm Carlos Eduardo Pereira <strong>Finotelli</strong>.
 
