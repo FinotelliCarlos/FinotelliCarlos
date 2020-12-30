@@ -46,7 +46,7 @@ Below contact area :wink:
 Below my language skills.
 
 <img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="25" width="25" />:
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React.Js" height="25" width="20" />:
+<img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React.Js" height="25" width="25" />:
 <img align="center" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="React-Native" height="30" width="25" />:
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" height="25" width="25" />:
 <img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Javascript" height="25" width="25" />:
