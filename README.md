@@ -45,21 +45,21 @@ Below contact area :wink:
 
 Below my language skills.
 
-<img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="25" width="25" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React.Js" height="25" width="25" />
-<img align="center" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="React-Native" height="25" width="25" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" height="25" width="25" />
-<img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Javascript" height="25" width="25" />
-<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node.Js" height="25" width="25" />
-<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_styled_icon_130142.png" alt="Styled Components" height="25" width="25" />
-<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="25" width="25" />
-<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="Sass" height="25" width="25" />
-<img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="25" width="25" />
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" alt="SQL" height="25" width="25" />
-<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker" height="25" width="25" />
-<img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png" alt="Insomnia" height="25" width="25" />
-<img align="center" src="https://chocolatey.org/content/packageimages/robo3t.1.4.3.png" alt="Robot3T" height="25" width="25" />
-<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="25" width="25" />
+<img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="25" width="25" />:
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React.Js" height="25" width="25" />:
+<img align="center" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="React-Native" height="25" width="25" />:
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" height="25" width="25" />:
+<img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Javascript" height="25" width="25" />:
+<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node.Js" height="25" width="25" />:
+<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_styled_icon_130142.png" alt="Styled Components" height="25" width="25" />:
+<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="25" width="25" />:
+<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="Sass" height="25" width="25" />:
+<img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="25" width="25" />:
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" alt="SQL" height="25" width="25" />:
+<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker" height="25" width="25" />:
+<img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png" alt="Insomnia" height="25" width="25" />:
+<img align="center" src="https://chocolatey.org/content/packageimages/robo3t.1.4.3.png" alt="Robot3T" height="25" width="25" />:
+<img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="25" width="25" />:
 <div align="right">
   
 </div>
