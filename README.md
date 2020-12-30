@@ -1,5 +1,8 @@
 
 ---
+<div align="right">
+  <img align="right" src="https://blush.design/api/download?shareUri=0kXbCFThP&s=0%7EFFC280&w=800&h=800&fm=png" alt="Finotelli"/>
+</div>
 
 Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
@@ -97,8 +100,5 @@ Below my language skills :rocket:
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="30" width="30" />
 </a>
 
-<div align="right">
-  <img align="right" src="https://blush.design/api/download?shareUri=0kXbCFThP&s=0%7EFFC280&w=800&h=800&fm=png" alt="Finotelli"/>
-</div>
 
 ---
