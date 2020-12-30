@@ -48,6 +48,7 @@ Below contact area :wink:
 <br><br>
 
 Below my language skills.
+<br>
 <a href="https://graphql.org/" target="_blank">
     <img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="25" width="25" />
 </a>
