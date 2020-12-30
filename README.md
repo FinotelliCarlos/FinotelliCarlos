@@ -98,7 +98,7 @@ Below my language skills :rocket:
 </a>
 
 <div align="right">
-  
+  <img align="right" src="https://blush.design/api/download?shareUri=0kXbCFThP&s=0%7EFFC280&w=800&h=800&fm=png" alt="Finotelli"/>
 </div>
 
 ---
