@@ -43,6 +43,8 @@ Below contact area :wink:
   <img align="center" src="https://cdn.icon-icons.com/icons2/699/PNG/512/outlook_icon-icons.com_61644.png" alt="Contato E-mail - Finotelli" height="25" width="25" />
 </a>
 
+<br><br>
+
 Below my language skills.
 
 <img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="25" width="25" />:
