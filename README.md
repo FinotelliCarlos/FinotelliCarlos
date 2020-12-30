@@ -2,6 +2,7 @@
 ---
 <div align="right">
   <img align="right" src="https://blush.design/api/download?shareUri=0kXbCFThP&s=0%7EFFC280&w=800&h=800&fm=png" alt="Finotelli" width="163"/>
+  <img align="right" src="https://icons8.com/vector-creator/illustration/5feccac101d0360014a0c4b4" alt="Finotelli" width="163"/>
 </div>
 
 Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
