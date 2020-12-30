@@ -1,7 +1,7 @@
 
 ---
 <div align="right">
-  <img align="right" src="https://blush.design/api/download?shareUri=0kXbCFThP&s=0%7EFFC280&w=800&h=800&fm=png" alt="Finotelli"/>
+  <img align="right" src="https://blush.design/api/download?shareUri=0kXbCFThP&s=0%7EFFC280&w=800&h=800&fm=png" alt="Finotelli" height="50" width="50"/>
 </div>
 
 Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
