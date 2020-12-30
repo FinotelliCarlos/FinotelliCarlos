@@ -9,7 +9,7 @@ Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/m
 
 :fire: I'm currently learning React.js, React-Native, Node.JS and Typescript.
 
-<br><br>
+<br>
 
 Below contact area :wink:
   
