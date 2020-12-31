@@ -101,4 +101,7 @@ Below my language skills :rocket:
 </a>
 
 
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=FinoteliCarlos&show_icons=true&layout=compact&theme=dark)
+
 ---
