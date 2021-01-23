@@ -6,15 +6,15 @@
 
 Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-:muscle: I'm Carlos Eduardo Pereira <strong>Finotelli</strong>.
+:muscle:  I'm Carlos Eduardo Pereira <strong>Finotelli</strong>.
 
-:heart: I'm a lover of open-source projects.
+:heart:  I'm a lover of open-source projects.
 
-:fire: I'm currently learning React.js, React-Native, Node.JS and Typescript.
+:fire:  I'm currently learning React.js, React-Native, Node.JS and Typescript.
 
 <br>
 
-Below contact area :wink:
+Below contact area  :wink:
 
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Linkedin - Finotelli" height="30" width="30" />
@@ -50,7 +50,7 @@ Below contact area :wink:
 
 <br><br>
 
-Below my language skills :rocket:
+Below my language skills  :rocket:
 
 
 
@@ -106,7 +106,7 @@ Below my language skills :rocket:
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="30" width="30" />
 </a>
 
-<br><br>
+<br>
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
 
