@@ -73,15 +73,18 @@ Below my language skills  :rocket:
 <a href="https://styled-components.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_styled_icon_130142.png" alt="Styled Components" height="30" width="30" />
 </a>
-<a href="https://css-tricks.com/" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="30" width="30" />
+<a href="https://graphql.org/" target="_blank">
+    <img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="30" width="30" />
 </a>
+
 <a href="https://sass-lang.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="Sass" height="30" width="30" />
 </a>
+
 <br>
-<a href="https://graphql.org/" target="_blank">
-    <img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="30" width="30" />
+
+<a href="https://css-tricks.com/" target="_blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="30" width="30" />
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="30" width="30" />
