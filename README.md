@@ -79,6 +79,7 @@ Below my language skills  :rocket:
 <a href="https://sass-lang.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="Sass" height="30" width="30" />
 </a>
+<br>
 <a href="https://graphql.org/" target="_blank">
     <img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="30" width="30" />
 </a>
