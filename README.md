@@ -105,7 +105,7 @@ Below my language skills  :rocket:
     <img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png" alt="Insomnia" height="30" width="30" />
 </a>
 <a href="https://studio3t.com/" target="_blank">
-    <img align="center" src="https://chocolatey.org/content/packageimages/robo3t.1.4.3.png" alt="Robot3T" height="30" width="30" />
+    <img align="center" src="https://user-images.githubusercontent.com/12401985/69677316-60423a00-1081-11ea-9ec6-7334c0e491a5.png" alt="Robot3T" height="30" width="30" />
 </a>
 <a href="https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="30" width="30" />
