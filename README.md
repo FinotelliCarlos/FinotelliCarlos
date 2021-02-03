@@ -77,6 +77,9 @@ Below my language skills  :rocket:
 <a href="https://sass-lang.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="Sass" height="30" width="30" />
 </a>
+<a href="https://css-tricks.com/" target="_blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="30" width="30" />
+</a>
 
 <br>
 
@@ -85,9 +88,6 @@ Below my language skills  :rocket:
 </a>
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" alt="SQL" height="30" width="30" />
-</a>
-<a href="https://css-tricks.com/" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="30" width="30" />
 </a>
 <a href="https://yarnpkg.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_wordmark_logo_icon_146288.png" alt="Yarn" height="30" width="30" />
