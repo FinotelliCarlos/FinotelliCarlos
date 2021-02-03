@@ -58,9 +58,6 @@ Below my language skills  :rocket:
 <a href="https://pt-br.reactjs.org/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React.Js" height="30" width="30" />
 </a>
-<a href="https://reactnative.dev/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="React-Native" height="30" width="30" />
-</a>
 <a href="https://www.typescriptlang.org/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" height="30" width="30" />
 </a>
