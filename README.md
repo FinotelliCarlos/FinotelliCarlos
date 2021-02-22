@@ -11,7 +11,7 @@ Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/m
 
 :heart:  I'm a lover of open-source projects.
 
-:fire:  I'm currently learning React.js, React-Native, Node.JS and Typescript.
+:fire:  I'm currently learning React.js, Node.JS, Javascript and Typescript.
 
 <br>
 
