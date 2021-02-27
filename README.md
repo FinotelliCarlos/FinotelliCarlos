@@ -85,9 +85,6 @@ Below my language skills  :rocket:
 <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="30" width="30" />
 </a>
-<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" alt="SQL" height="30" width="30" />
-</a>
 <a href="https://yarnpkg.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_wordmark_logo_icon_146288.png" alt="Yarn" height="30" width="30" />
 </a>
