@@ -113,7 +113,7 @@ Below my language skills  :rocket:
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="30" width="30" />
 </a>
 
-<br>
+<br><br>
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
 
