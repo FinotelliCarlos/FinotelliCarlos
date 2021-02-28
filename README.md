@@ -59,7 +59,7 @@ Below my language skills  :rocket:
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React.Js" height="30" width="30" />
 </a>
 <a href="hhttps://nextjs.org" target="_blank">
-    <img align="center" src="https://camo.githubusercontent.com/affcb4d381c3f7305bd0598b9d426c17fdfc2bd7cd7f45352001834ab25f66bc/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f756e69636f646576656c6f7065722f696d6167652f75706c6f61642f76313532343737363736342f6e6578742d6a736c6f676f2e737667" alt="Next.Js" height="30" width="30" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.Js" height="30" width="30" />
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" height="30" width="30" />
