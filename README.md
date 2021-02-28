@@ -71,7 +71,7 @@ Below my language skills  :rocket:
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node.Js" height="30" width="30" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://styled-components.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_styled_icon_130142.png" alt="Styled Components" height="30" width="30" />
@@ -86,7 +86,7 @@ Below my language skills  :rocket:
     <img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="30" width="30" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="30" width="30" />
@@ -101,7 +101,7 @@ Below my language skills  :rocket:
     <img align="center" src="https://user-images.githubusercontent.com/12401985/69677316-60423a00-1081-11ea-9ec6-7334c0e491a5.png" alt="Robot3T" height="30" width="30" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://yarnpkg.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_wordmark_logo_icon_146288.png" alt="Yarn" height="30" width="30" />
@@ -113,7 +113,7 @@ Below my language skills  :rocket:
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="30" width="30" />
 </a>
 
-<br><br>
+<br>
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
 
