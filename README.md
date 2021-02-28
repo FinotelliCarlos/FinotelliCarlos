@@ -102,7 +102,7 @@ Below my language skills  :rocket:
 </a>
 <a href="https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="30" width="30" />
-</a
+</a>
 
 <br><br>
 
