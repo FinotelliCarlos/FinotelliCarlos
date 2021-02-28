@@ -54,9 +54,7 @@ Below contact area  :wink:
 Below my language skills  :rocket:
 
 
-<a href="hhttps://nextjs.org" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="Next.Js" height="30" width="30" />
-</a>
+
 <a href="https://pt-br.reactjs.org/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React.Js" height="30" width="30" />
 </a>
