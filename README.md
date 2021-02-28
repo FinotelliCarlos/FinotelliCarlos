@@ -58,8 +58,8 @@ Below my language skills  :rocket:
 <a href="https://pt-br.reactjs.org/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React.Js" height="30" width="30" />
 </a>
-<a href="hhttps://nextjs.org" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.Js" height="30" width="30" />
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" height="30" width="30" />
 </a>
 <a href="https://www.javascript.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Javascript" height="30" width="30" />
