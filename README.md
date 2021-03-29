@@ -1,10 +1,6 @@
 
 ---
 
-<div align="right">
-  <img align="right" src="https://blush.design/api/download?shareUri=0kXbCFThP&s=0%7EFFC280&w=800&h=800&fm=png" alt="Finotelli" width="250"/>
-</div>
-
 Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 :muscle:  I'm Carlos Eduardo Pereira <strong>Finotelli</strong>.
@@ -85,9 +81,6 @@ Below my language skills  :rocket:
 <a href="https://graphql.org/" target="_blank">
     <img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="30" width="30" />
 </a>
-
-<br>
-
 <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="30" width="30" />
 </a>
@@ -100,9 +93,6 @@ Below my language skills  :rocket:
 <a href="https://studio3t.com/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/12401985/69677316-60423a00-1081-11ea-9ec6-7334c0e491a5.png" alt="Robot3T" height="30" width="30" />
 </a>
-
-<br>
-
 <a href="https://yarnpkg.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_wordmark_logo_icon_146288.png" alt="Yarn" height="30" width="30" />
 </a>
