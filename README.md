@@ -66,9 +66,6 @@ Below my language skills  :rocket:
 <a href="https://nodejs.org/en/about/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node.Js" height="30" width="30" />
 </a>
-
-<br>
-
 <a href="https://styled-components.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_styled_icon_130142.png" alt="Styled Components" height="30" width="30" />
 </a>
