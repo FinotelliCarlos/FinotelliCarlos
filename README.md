@@ -3,7 +3,7 @@
 
 Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-:muscle:  I'm Carlos Eduardo Pereira <strong>Finotelli</strong>
+:muscle:  I'm Carlos Eduardo P. <strong>Finotelli</strong>
 
 :heart:  I'm a lover of open-source projects
 
