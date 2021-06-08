@@ -101,9 +101,9 @@ Below my language skills  :rocket:
 </a>
 
 <br>
-<div align="center">
-    ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
-<br>
-    ![github contribution grid snake animation](https://raw.githubusercontent.com/finotellicarlos/finotellicarlos/output/github-contribution-grid-snake.svg)
-</div>
+    
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/finotellicarlos/snk/output/github-contribution-grid-snake.gif)
+    
 ---
