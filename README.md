@@ -45,7 +45,7 @@ Below contact area  :wink:
   <img align="center" src="https://cdn.icon-icons.com/icons2/699/PNG/512/outlook_icon-icons.com_61644.png" alt="Contato E-mail - Finotelli" height="35" width="35" />
 </a>
 
-<br><br>
+<br>
 
 Below my language skills  :rocket:
 
@@ -100,8 +100,10 @@ Below my language skills  :rocket:
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="35" width="35" />
 </a>
 
-<br><br>
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
-
+<br>
+<div align="center">
+    ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
+<br>
+    ![github contribution grid snake animation](https://raw.githubusercontent.com/finotellicarlos/finotellicarlos/output/github-contribution-grid-snake.svg)
+</div>
 ---
