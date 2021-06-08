@@ -1,6 +1,7 @@
 
 ---
-
+<div>
+    
 <h4>Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h4>
 
 :muscle:  I'm Carlos Eduardo P. <strong>Finotelli</strong>
@@ -8,7 +9,11 @@
 :heart:  I'm a lover of open-source projects
 
 :fire:  I'm currently learning Next.js,Typescript, Node.js and Javascript.
+    
+</div>
 
+<div>
+    
 <h4>Below contact area  :wink:</h4>
 
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
@@ -95,8 +100,8 @@
 <a href="https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="35" width="35" />
 </a>
-
-<br><br>
+    
+</div>
     
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
 
