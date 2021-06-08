@@ -12,6 +12,8 @@
     
 </div>
 
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
+
 <div>
     
 <h4>Below contact area  :wink:</h4>
@@ -103,8 +105,6 @@
     
 </div>
 <br>
-    
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/finotellicarlos/snk/output/github-contribution-grid-snake.gif)
     
