@@ -110,4 +110,6 @@
 </div>
 <br>
  
+![Snake animation contribution](https://github.com/finotellicarlos/finotellicarlos/blob/output/github-contribution-grid-snake.svg)
+    
 ---
