@@ -1,7 +1,7 @@
 
 ---
 
-Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+<h4>Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h4>
 
 :muscle:  I'm Carlos Eduardo P. <strong>Finotelli</strong>
 
@@ -9,7 +9,7 @@ Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/m
 
 :fire:  I'm currently learning Next.js,Typescript, Node.js and Javascript.
 
-<h3>Below contact area  :wink:</h3>
+<h4>Below contact area  :wink:</h4>
 
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Linkedin - Finotelli" height="35" width="35" />
@@ -45,7 +45,7 @@ Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/m
 
 <br>
 
-Below my language skills  :rocket:
+<h4>Below my language skills  :rocket:</h4>
 
 <a href="https://pt-br.reactjs.org/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React.Js" height="35" width="35" />
