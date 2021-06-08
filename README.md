@@ -9,8 +9,6 @@ Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/m
 
 :fire:  I'm currently learning React.js, Node.JS, Javascript and Typescript
 
-<br>
-
 Below contact area  :wink:
 
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
@@ -48,8 +46,6 @@ Below contact area  :wink:
 <br>
 
 Below my language skills  :rocket:
-
-
 
 <a href="https://pt-br.reactjs.org/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React.Js" height="35" width="35" />
@@ -100,7 +96,7 @@ Below my language skills  :rocket:
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="35" width="35" />
 </a>
 
-<br>
+<br><br>
     
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=finotellicarlos&show_icons=true&layout=compact&theme=dark)
 
