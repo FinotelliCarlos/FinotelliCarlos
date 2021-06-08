@@ -7,9 +7,9 @@ Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/m
 
 :heart:  I'm a lover of open-source projects
 
-:fire:  I'm currently learning React.js, Node.JS, Javascript and Typescript
+:fire:  I'm currently learning Next.js,Typescript, Node.js and Javascript.
 
-Below contact area  :wink:
+<h3>Below contact area  :wink:</h3>
 
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Linkedin - Finotelli" height="35" width="35" />
