@@ -107,5 +107,6 @@
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="35" width="35" />
 </a>
     
-</div>    
+</div>
+    
 ---
