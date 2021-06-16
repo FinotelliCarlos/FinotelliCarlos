@@ -58,7 +58,7 @@
 
 <br>
 
-<h4>Below my language skills  :rocket:</h4>
+<h4>Below my main language skills :rocket:</h4>
 
 <a href="https://pt-br.reactjs.org/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React.Js" height="35" width="35" />
@@ -84,21 +84,26 @@
 <a href="https://css-tricks.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="35" width="35" />
 </a>
-<a href="https://graphql.org/" target="_blank">
-    <img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="35" width="35" />
+
+
+<a href="https://insomnia.rest/" target="_blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png" alt="Insomnia" height="35" width="35" />
 </a>
+    
+<h4>Below my other language skills</h4>
+     
 <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="35" width="35" />
 </a>
 <a href="https://www.docker.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker" height="35" width="35" />
 </a>
-<a href="https://insomnia.rest/" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png" alt="Insomnia" height="35" width="35" />
+<a href="https://graphql.org/" target="_blank">
+    <img align="center" src="https://graphql.org/img/logo.svg" alt="GraphQL" height="35" width="35" />
 </a>
 <a href="https://studio3t.com/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/12401985/69677316-60423a00-1081-11ea-9ec6-7334c0e491a5.png" alt="Robot3T" height="35" width="35" />
-</a>
+</a>  
 <a href="https://yarnpkg.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yarn_original_wordmark_logo_icon_146288.png" alt="Yarn" height="35" width="35" />
 </a>
