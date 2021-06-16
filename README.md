@@ -113,6 +113,9 @@
 <a href="https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="35" width="35" />
 </a>
+<a href="https://www.python.org/" target="_blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="Python" height="35" width="35" />
+</a>
     
 </div>
     
