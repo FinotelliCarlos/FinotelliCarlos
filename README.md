@@ -38,7 +38,7 @@
   <img align="center" src="https://cdn.icon-icons.com/icons2/699/PNG/512/outlook_icon-icons.com_61644.png" alt="Contato E-mail - Finotelli" height="35" width="35" />
 </a>
 
-<h4>Below contact area  :wink:</h4>
+<h4>Below my social networks  :wink:</h4>
 
 <a href="https://linkedin.com/in/finotellicarlos" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Rede Social Linkedin - Finotelli" height="35" width="35" />
