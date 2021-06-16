@@ -22,22 +22,6 @@
     
 <h4>Below contact area  :wink:</h4>
 
-<a href="https://linkedin.com/in/finotellicarlos" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Linkedin - Finotelli" height="35" width="35" />
-</a>
-
-<a href="https://app.rocketseat.com.br/me/finotellicarlos" target="blank">
-  <img align="center" src="https://cdn-images-1.medium.com/max/184/1*TkXVfLTwsHdwpUEjGzdi9w@2x.jpeg" alt="Comunidade Rocketseat - Finotelli" height="35" width="35" />
-</a>
-
-<a href="https://fb.com/duuh.cls" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="Facebook - Finotelli" height="35" width="35" />
-</a>
-
-<a href="https://instagram.com/10_duuh" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Instagram - Finotelli" height="35" width="35" />
-</a>
-
 <a href="https://discordapp.com/users/733724313550717038" target="_blank">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="Contato Discord - Finotelli" height="35" width="35" />
 </a>
@@ -52,6 +36,24 @@
 
 <a href="mailto:carlos.finotelli@outlook.com" target="_blank">
   <img align="center" src="https://cdn.icon-icons.com/icons2/699/PNG/512/outlook_icon-icons.com_61644.png" alt="Contato E-mail - Finotelli" height="35" width="35" />
+</a>
+
+<h4>Below contact area  :wink:</h4>
+
+<a href="https://linkedin.com/in/finotellicarlos" target="blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Rede Social Linkedin - Finotelli" height="35" width="35" />
+</a>
+
+<a href="https://app.rocketseat.com.br/me/finotellicarlos" target="blank">
+  <img align="center" src="https://cdn-images-1.medium.com/max/184/1*TkXVfLTwsHdwpUEjGzdi9w@2x.jpeg" alt="Rede Social Comunidade Rocketseat - Finotelli" height="35" width="35" />
+</a>
+
+<a href="https://fb.com/duuh.cls" target="_blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="Rede Social Facebook - Finotelli" height="35" width="35" />
+</a>
+
+<a href="https://instagram.com/10_duuh" target="_blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Rede Social Instagram - Finotelli" height="35" width="35" />
 </a>
 
 <br>
