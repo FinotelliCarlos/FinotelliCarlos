@@ -84,11 +84,6 @@
 <a href="https://css-tricks.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="35" width="35" />
 </a>
-
-
-<a href="https://insomnia.rest/" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png" alt="Insomnia" height="35" width="35" />
-</a>
     
 <h4>Below my other language skills</h4>
      
@@ -112,6 +107,9 @@
 </a>
 <a href="https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GitBash" height="35" width="35" />
+</a>
+<a href="https://insomnia.rest/" target="_blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png" alt="Insomnia" height="35" width="35" />
 </a>
 <a href="https://www.python.org/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="Python" height="35" width="35" />
