@@ -8,7 +8,7 @@
 
 :heart:  I'm a lover of open-source projects
 
-:fire:  I'm currently learning Next.js,Typescript, Node.js and Javascript.
+:fire:  I'm currently learning Next.js,React-Native(Expo), Typescript, Node.js and Javascript.
     
 </div>
    
