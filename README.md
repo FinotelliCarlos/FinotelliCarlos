@@ -54,18 +54,17 @@
 
 <h4>Below my main language skills :rocket:</h4>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" height="35" width="35" />
-</a>
 <a href="https://www.javascript.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Javascript" height="35" width="35" />
 </a>
-<a href="https://css-tricks.com/" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="35" width="35" />
-</a>
-    
 <a href="https://nodejs.org/en/about/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node.Js" height="35" width="35" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" height="35" width="35" />
+</a>
+<a href="https://css-tricks.com/" target="_blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="35" width="35" />
 </a>
     
 <h4>Below is my favorite frameworks</h4>
@@ -107,6 +106,8 @@
 </a>
     
 </div>
+
+<br>
 
 <div>
   <a href="https://github.com/finotellicarlos">
