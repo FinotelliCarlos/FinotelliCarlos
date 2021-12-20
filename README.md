@@ -69,11 +69,11 @@
     
 <h4>Below is my favorite frameworks</h4>
     
-<a href="https://pt-br.reactjs.org/" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React.Js" height="35" width="35" />
+<a href="https://reactnative.dev/" target="_blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React-Native" height="35" width="35" />
 </a>
 <a href="https://nextjs.org" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.Js" height="35" width="35" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.Js / React.Js" height="35" width="35" />
 </a>
 <a href="https://styled-components.com/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_styled_icon_130142.png" alt="Styled Components" height="35" width="35" />
