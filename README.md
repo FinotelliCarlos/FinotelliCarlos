@@ -2,7 +2,7 @@
 ---
 <div>
     
-<h4>Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h4>
+<h4>Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h4>
 
 :muscle:  I'm Carlos Eduardo P. <strong>Finotelli</strong>
 
