@@ -1,0 +1,52 @@
+{
+  "workbench.startupEditor": "none",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "workbench.statusBar.visible": false,
+  "editor.accessibilityPageSize": 8,
+  "editor.fontSize": 13,
+  "terminal.integrated.fontSize": 13,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "workbench.editor.tabSizing": "shrink",
+  "explorer.compactFolders": false,
+  "files.autoSave": "afterDelay",
+
+  // formatter
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "prettier.arrowParens": "avoid",
+  "prettier.endOfLine": "auto",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "tailwindCSS.experimental.configFile": null,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Omni",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
