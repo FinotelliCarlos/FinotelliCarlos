@@ -4,7 +4,7 @@
     
 <h4>Hi, there!</h4>
 
-:muscle:  I'm Carlos Eduardo P. <strong>Finotelli</strong>
+:muscle:  I'm Carlos <strong>Finotelli</strong>
 
 :heart:  I'm a lover of open-source projects
 
