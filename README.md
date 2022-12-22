@@ -42,13 +42,7 @@
   <img align="center" src="https://cdn-images-1.medium.com/max/184/1*TkXVfLTwsHdwpUEjGzdi9w@2x.jpeg" alt="Rede Social Comunidade Rocketseat - Finotelli" height="35" width="35" />
 </a>
 
-<a href="https://fb.com/finotellicarlos" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="Rede Social Facebook - Finotelli" height="35" width="35" />
-</a>
 
-<a href="https://instagram.com/c_finotelli" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Rede Social Instagram - Finotelli" height="35" width="35" />
-</a>
 
 <br>
 
