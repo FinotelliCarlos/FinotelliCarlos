@@ -127,10 +127,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finotellicarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
     
-<a href="https://github.com/finotellicarlos" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/finotellicarlos?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-  
+    
+<p align="center">
+    <a href="http://www.github.com/finotellicarlos">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=finotellicarlos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </a>
+</p>
+
 </div>
     
 ---
