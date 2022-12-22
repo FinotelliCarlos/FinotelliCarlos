@@ -122,11 +122,15 @@
 <br>
 
 <div>
-  <a href="https://github.com/finotellicarlos">
+    
+<a href="https://github.com/finotellicarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finotellicarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      
-      <a href="https://github.com/finotellicarlos" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/finotellicarlos?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</a>
+    
+<a href="https://github.com/finotellicarlos" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/finotellicarlos?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+  
 </div>
     
 ---
