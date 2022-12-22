@@ -122,18 +122,11 @@
 <br>
 
 <div>
-    
-<a href="https://github.com/finotellicarlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finotellicarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-    
-    
-<p align="center">
-    <a href="http://www.github.com/finotellicarlos">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=finotellicarlos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-    </a>
-</p>
-
+    <p align="center">
+        <a href="http://www.github.com/finotellicarlos">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=finotellicarlos&stroke=ffffff&background=1d3557&ring=d62828&fire=d62828&currStreakNum=ffffff&currStreakLabel=d62828&sideNums=d62828&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+        </a>
+    </p>
 </div>
     
 ---
