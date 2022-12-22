@@ -8,7 +8,7 @@
 
 :heart:  I'm a lover of open-source projects
 
-:fire:  I'm currently learning Next.js, React-Native(Expo), Typescript, Node.js and Javascript
+:fire:  I'm currently Job in <strong>LETS Delivery</strong>
     
 </div>
    
@@ -129,7 +129,6 @@
 <div>
   <a href="https://github.com/finotellicarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finotellicarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finotellicarlos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
     
 ---
