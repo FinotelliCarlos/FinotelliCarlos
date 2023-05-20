@@ -1,7 +1,6 @@
 {
   "workbench.startupEditor": "none",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "bracket-pair-colorizer-2.depreciation-notice": false,
   "workbench.statusBar.visible": false,
   "editor.accessibilityPageSize": 8,
   "editor.fontSize": 13,
@@ -12,17 +11,13 @@
   "editor.wordWrap": "on",
   "workbench.editor.tabSizing": "shrink",
   "explorer.compactFolders": false,
-  "files.autoSave": "afterDelay",
-
   // formatter
-  "prettier.tabWidth": 2,
-  "prettier.semi": false,
-  "prettier.singleQuote": true,
-  "prettier.trailingComma": "none",
-  "prettier.arrowParens": "avoid",
-  "prettier.endOfLine": "auto",
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.addMissingImports": true
+  },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -45,8 +40,10 @@
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Bearded Theme Black & Ruby",
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "window.commandCenter": true,
+  "githubPullRequests.createOnPublishBranch": "never"
 }
