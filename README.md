@@ -2,7 +2,7 @@
 ---
 <div>
     
-<h4>Hi, there!</h4>
+<h4>Hi, there! 👋</h4>
 
 :muscle:  I'm Carlos <strong>Finotelli</strong>
 
@@ -10,37 +10,6 @@
     
 </div>
    
-<div>
-    
-<h4>Below contact area  :wink:</h4>
-
-<a href="https://discordapp.com/users/733724313550717038" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="Contato Discord - Finotelli" height="35" width="35" />
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=5511958331748" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/whatsapp_icon-icons.com_53606.png" alt="Contato Whatsapp - Finotelli" height="35" width="35" />
-</a>
-
-<a href="https://t.me/FinotelliCarlos" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" alt="Contato Telegram - Finotelli" height="35" width="35" />
-</a>
-
-<a href="mailto:carlos.finotelli@outlook.com" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/699/PNG/512/outlook_icon-icons.com_61644.png" alt="Contato E-mail - Finotelli" height="35" width="35" />
-</a>
-
-<h4>Below my social networks  :wink:</h4>
-
-<a href="https://linkedin.com/in/finotellicarlos" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Rede Social Linkedin - Finotelli" height="35" width="35" />
-</a>
-
-<a href="https://app.rocketseat.com.br/me/finotellicarlos" target="blank">
-  <img align="center" src="https://cdn-images-1.medium.com/max/184/1*TkXVfLTwsHdwpUEjGzdi9w@2x.jpeg" alt="Rede Social Comunidade Rocketseat - Finotelli" height="35" width="35" />
-</a>
-
-<br>
 
 <h4>Below my main language skills :rocket:</h4>
 
@@ -124,16 +93,6 @@
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" alt="NPM" height="35" width="35" />
 </a>
 
-</div>
-
-<br>
-
-<div>
-    <p align="center">
-     <a href="http://www.github.com/finotellicarlos">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=finotellicarlos&stroke=ffffff&background=1d3557&ring=d62828&fire=d62828&currStreakNum=ffffff&currStreakLabel=d62828&sideNums=d62828&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-     </a>
-    </p>
 </div>
     
 ---
